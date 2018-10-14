@@ -1,4 +1,11 @@
-﻿using System;
+/*
+Dve tačke nazivamo bliskim ako rastojanje među njima ne prelazi dati realni
+broj d. Napisati aplikaciju kojom se generišu na slučajan način tačke u polju NxM (dve su N i M
+prirodni brojevi), sve dok su međusobno bliske. Prikazati koordinate generisanih tačaka.
+Program treba da ispiše i broj generisanih tačaka.
+*/
+
+using System;
 
 namespace Lab1Zad1
 {
