@@ -12,6 +12,41 @@
 
 namespace KlasaKrugSaIzuzetkom
 {
+  class Krug
+    {
+        private double r;
+        public double R
+        {
+            get {
+                Console.Write("get blok");
+                return r; }
+            set
+            {
+                Console.Write("set blok");
+                if (value > 0) r = value;
+                else
+                {
+                    Exception ex = new Exception("Poluprecnik kruga ne sme biti nula ili negativan!");
+                    throw ex;
+                }
+            }
+        }
+        public Krug() { }
+        public Krug(double r)
+        {
+            R = r;
+        }
+        public double Obim()
+        {
+            return 2 * R * Math.PI;
+        }
+        public double Povrsina()
+        {
+            return Math.Pow(R, 2) * Math.PI;
+        }
+    }
+  
+  
     class Program
     {
         static void Main(string[] args)
