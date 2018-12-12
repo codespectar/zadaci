@@ -1,4 +1,4 @@
-﻿Obaveštenje
+﻿OBAVEŠTENJE
 
 Najnoviji domaći je Domaći4.cs.
 Poslednji postavljeni zadatak je Zadatak21.cs (Klase Ucenik i Odeljenje).
