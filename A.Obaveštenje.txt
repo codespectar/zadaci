@@ -1,4 +1,4 @@
 ﻿OBAVEŠTENJE
 
-Najnoviji domaći je Domaći4.cs.
-Poslednji postavljeni zadatak je Zadatak21.cs (Klase Ucenik i Odeljenje).
+Zadatke za WForm pogledajte na link:
+https://drive.google.com/drive/u/1/folders/1EDG4T0z3wwV4XABNQrcpQQ6JQGWzXFJz
